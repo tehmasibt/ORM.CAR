@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmTask", "OrmTask\OrmTask.csproj", "{95F42B0B-EC21-4DBC-81C3-B05E4B1568A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F42B0B-EC21-4DBC-81C3-B05E4B1568A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F42B0B-EC21-4DBC-81C3-B05E4B1568A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F42B0B-EC21-4DBC-81C3-B05E4B1568A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F42B0B-EC21-4DBC-81C3-B05E4B1568A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B46DD8-B03C-42E7-BA30-3CF6F0E40335}
+	EndGlobalSection
+EndGlobal
